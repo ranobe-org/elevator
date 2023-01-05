@@ -2,7 +2,7 @@
 
 ![cover](https://github.com/ranobe-org/elevator/raw/main/cover.jpg)
 
-## What is your level?
+## Elevator
 
 - Alternative Names: Beginning of the end
 - Author: Atul
